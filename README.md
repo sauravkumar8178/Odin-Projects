@@ -1,6 +1,6 @@
 # ***Odin-Projects***
 
-- **food Recipe***
+- <**food Recipe**>
 
 This website based on the Indian Cuisine, Cuisine Knowledge, History of Indian Cuisine, and so on.
 
