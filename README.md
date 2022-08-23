@@ -1,6 +1,6 @@
 <h1>Odin-Projects</h1>
 
-![impact food](https://github.com/sauravkumar8178/Odin-Projects/blob/main/food_recipe/image/Imperfect%20Foods.svg | width="300" hight="300") <h3 align="center">food Recipe</h3>
+![impact food](https://github.com/sauravkumar8178/Odin-Projects/blob/main/food_recipe/image/Imperfect%20Foods.svg =300*300) <h3 align="center">food Recipe</h3>
 
 This website based on the Indian Cuisine, Cuisine Knowledge, History of Indian Cuisine, and so on.
 
