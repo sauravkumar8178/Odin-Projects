@@ -1,7 +1,7 @@
 <h1>Odin-Projects</h1>
 
 <dl>
- <dt><h3>food Recipe</h3></dt>
+ <dt><h2>food Recipe</h2></dt>
     <dd>This website based on the Indian Cuisine, Cuisine Knowledge, History of Indian Cuisine, and so on.</dd>
 </dl>
 
