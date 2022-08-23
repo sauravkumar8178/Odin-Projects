@@ -1,6 +1,6 @@
-<h1>Odin-Projects<h1>
+<h1>Odin-Projects</h1>
 
-![logo](https://user-images.githubusercontent.com/66455423/186199157-3c4d2843-ece7-4666-b35c-ccf7a93db7a3.png)<h3 align="center">food Recipe<h3>
+![logo](https://user-images.githubusercontent.com/66455423/186199157-3c4d2843-ece7-4666-b35c-ccf7a93db7a3.png)<h3>align="center">food Recipe</h3>
 
 This website based on the Indian Cuisine, Cuisine Knowledge, History of Indian Cuisine, and so on.
 
