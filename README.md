@@ -1,6 +1,6 @@
 <h1>Odin-Projects</h1>
 
-https://github.com/sauravkumar8178/Odin-Projects/blob/main/food_recipe/image/Imperfect%20Foods.svg
+![impact food](https://github.com/sauravkumar8178/Odin-Projects/blob/main/food_recipe/image/Imperfect%20Foods.svg)
 
  <h3 align="center">food Recipe</h3>
 
