@@ -1,6 +1,5 @@
-# ***Odin-Projects***
-
-- file:///home/saurav/Documents/Odin-Projects/food_recipe/image/Imperfect Foods.svg <u>**food Recipe**</u>
+# ***Odin-Projects*** 
+<u>**food Recipe**</u>
 
   This website based on the Indian Cuisine, Cuisine Knowledge, History of Indian Cuisine, and so on.
 
