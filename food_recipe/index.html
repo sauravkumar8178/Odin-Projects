@@ -7,6 +7,7 @@
         </title>
         <link rel="icon" href="../image/logo.svg" type="image/icon">
         <img src="./image/Imperfect Foods.svg" height="300" width="1300" alt="The Company Logo image">
+        <link rel="stylesheet" href="/style.css">
     </head>
     <body>
         <h1 align="center" style="font-size: 40px;"><strong><em>About Us </em></strong></h1>
@@ -30,7 +31,7 @@
         <p>Sincerely,<br>Saurav kumar</p>
         <p>
             <h1 align="center" style="font-size: 40px;">
-                <strong><i>Indian Cuisine</i></strong>
+                <strong><i>Indian Cuisine</i></strong
             </h1>
         </p>
         <p>
@@ -131,7 +132,7 @@
                     or Tamil food. Throughout the south, dishes like sambar, kotto and 
                     koyamboo (spicy vegetable and lentil stews), kari or thovaran 
                     (warm vegetable salads), rasam (soup) and pachadi (yogurt salad) are 
-                    popular.<br><a href="./other_page/south_india.html" target="black page">Aquarium more kownledge about "South India's Food & Recipe".</a>
+                    popular.<br><a class="box" href="./other_page/south_india.html" target="black page">Aquarium more kownledge about "South India's Food & Recipe".</a>
                 </p>
             </p>
         
@@ -222,9 +223,37 @@
                     a lot of dry-coconut.<br><a href="./other_page/west_india.html" target="black page">Aquarium more kownledge about "West India's Food & Recipe".</a>
                 </p>
             </p>
-            <hr>
-            <center>Imperfect Foods Pvt. Ltd., contact: ss989108@gmail.com<br>Pink city colony, Dadri, Uttar Pradesh 203207 </center>
-        </div>           
-
+        </div>
+        <fieldset class="form">
+            <legend>Contact Me!</legend>
+            <form action="https://httpbin.org/get" method="get">
+                <p>
+                    <label for="firstName">First Name:</label>
+                    <input type="text" name="firstName" id="firstName" autocomplete="on" required autofocus placeholder="Saurav">
+                </p>
+                <p>
+                    <label for="lastName">Last Name:</label>
+                    <input type="text" name="lastName" id="lastName" autocomplete="on" required placeholder="Kumar"> 
+                </p>
+                <p>
+                    <label for="email">Email:</label>
+                    <input type="email" name="email" id="email" autocomplete="on" required placeholder="abz@gmail.com"> 
+                </p>
+                <p>
+                    <label for="messages">Subject</label>
+                    <br>
+                    <textarea name="messages" id="messages" cols="30" rows="10" placeholder="Write Somethings...."></textarea>
+                </p>
+                <p>
+                    <button type="submit">Submit</button>
+                    <button type="reset">Reset</button>
+                </p>
+            </form>
+        </fieldset>
+        <br>
+        <address align="center">
+            Copyright &copy; Imperfect Ptv. Ltd.
+        </address>
+        
     </body>
 </html>
