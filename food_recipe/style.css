@@ -1,4 +1,11 @@
+body {
+    background-color: papayawhip;
+    font-family: Arial, Helvetica, sans-serif;
+    color: hwb(0 0% 100% / 0.491)0, 0, 0, 0.924);
+}
+
+
 .form {
-    background-color: beige;
+    background-color: hwb(60 86% 4%)
 }
 
