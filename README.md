@@ -1,6 +1,1 @@
-<h1>Odin-Projects</h1>
-<h2> Recipe <h2>
- <p>This website based on the Indian Cuisine, Cuisine Knowledge, History of Indian Cuisine, and so on.</p>
-<p align="right" hight="100px" width="100px">
-![food_recipe](https://user-images.githubusercontent.com/66455423/171469329-97e26f14-2d73-485f-81fe-237b87a021f8.png)
-</p>
+
