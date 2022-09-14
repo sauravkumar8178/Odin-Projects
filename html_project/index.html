@@ -5,19 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Taco Shop</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1 align="center">Welcome to The Taco Shop</h1>
     <nav>
         <ul>
             <li>
-                <a href="">About</a>
+                <a href="#about">About LTS</a>
             </li>
             <li>
-                <a href="">Our Menu</a>
+                <a href="#menu">Our Menu</a>
             </li>
             <li>
-                <a href="">Store Hours</a>
+                <a href="hours.html">Store Hours</a>
             </li>
             <li>
                 <a href="./contact.html">Contact Us</a>
@@ -30,7 +31,7 @@
     </figure>
     <hr>
     <article>
-        <h2>About Us</h2>
+        <h2 id="about">About Us</h2>
         <P>
             <abbr title="Long Terms Support">LTS</abbr> was founded in 2022. Our shop was built from a love of taco. We hope
              our shop adds a unique and interesting place to our little town.
@@ -46,10 +47,53 @@
             </p>
         </details>
     </article>
-    <br>
-    <h2>Our Menu</h2>
+    <hr>
+    <h2 id="menu">Our Menu</h2>
     <table>
-        
+        <tr>
+            <td colspan="3" style="text-align: center;">Our Tacos</td>
+        </tr>
+        <tr>
+            <th>Tacos</th>
+            <th>Qty</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <th rowspan="3">Crunchy</th>
+            <td>1</td>
+            <td>$1.50</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>$2.50</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>$3.25</td>
+        </tr>
+        <tr>
+            <th rowspan="3">Soft</th>
+            <td>1</td>
+            <td>$2.00</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>$3.25</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>$4.50</td>
+        </tr>
+        <tr>
+            <td colspan="3">Chips & Salsa $2</td>
+        </tr>
     </table>
+    <br>
+    <br>
+    <a href="#">Back to Top</a>
+    <hr>
+    <address>
+        Copyright &copy; The Little Taco Shop
+    </address>
 </body>
 </html>
